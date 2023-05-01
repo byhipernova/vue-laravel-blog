@@ -2,6 +2,8 @@
 
 Projede frontend tarafında vue, vite ve vuetify backend tarafında ise laravel mysql kullanılmıştır.
 
+Demo ``https://blog.muhammetkoklu.com/``
+
 # Projeyi Çalıştırma
 
 # Frontend
