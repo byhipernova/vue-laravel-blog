@@ -2,7 +2,7 @@
 
 Projede frontend tarafında vue, vite ve vuetify backend tarafında ise laravel mysql kullanılmıştır.
 
-#Projeyi Çalıtırma
+# Projeyi Çalıştırma
 
 # Frontend
 
